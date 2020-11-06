@@ -1,2 +1,2 @@
 # Friday-6-Test
-LInking Git to R studio
+LInking the repository to edit it using R studio
